@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🤖 Добро пожаловать в мой GitHub профиль!
 
-<!--
-**NeverAngelGit/NeverAngelGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 О себе
+Привет! Я [Ваше имя], разработчик, специализирующийся на создании ботов для Discord и других проектов на Python. Увлечён автоматизацией, созданием умных и удобных решений, а также исследованием новых возможностей этого мощного языка программирования.
 
-Here are some ideas to get you started:
+## 🛠️ Мои навыки
+- 🐍 **Python** – основной язык разработки
+- 🤖 **Разработка Discord-ботов** – работа с `discord.py`, `nextcord`, `py-cord`
+- 💾 **Базы данных** – `SQLite`, `PostgreSQL`, `MongoDB`
+- 🔄 **API и интеграции** – работа с REST API, WebSockets
+- 🖥 **DevOps и автоматизация** – `Docker`, `Git`, `CI/CD`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Буду рад новым проектам и сотрудничеству! 🚀
