@@ -1,123 +1,64 @@
+<div align="center">
+
+# Привет, я <Имя> 👋
+
+**<Ваша роль: например, Full-stack разработчик / Python-инженер / Студент CS>**
+
+Строю <что именно: веб-сервисы / ботов / инструменты для разработчиков> и учусь <чему-то новому>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@username-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![Email](https://img.shields.io/badge/Email-Write_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=<username>&style=flat-square&color=blue)
+
+</div>
+
+---
+
+## 🧑‍💻 Обо мне
+
+- 🔭 Сейчас работаю над **<проект>**
+- 🌱 Изучаю **<технология>**
+- 💬 Спросите меня про **<тема>**
+- ⚡ Интересный факт: **<что-то о вас>**
+
+## 🛠 Стек
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📌 Избранные проекты
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [**project-one**](https://github.com/<username>/project-one) | Краткое описание, что делает и зачем | Python, FastAPI |
+| [**project-two**](https://github.com/<username>/project-two) | Краткое описание, что делает и зачем | React, TypeScript |
+| [**project-three**](https://github.com/<username>/project-three) | Краткое описание, что делает и зачем | Node.js, Docker |
+
+## 📊 Статистика
 
 <div align="center">
 
-# 𝙉𝙀𝙑𝙀𝙍𝘼𝙉𝙂𝙀𝙇
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=<username>&show_icons=true&theme=tokyonight&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<username>&layout=compact&theme=tokyonight&hide_border=true)
 
-**Developer • Backend Enthusiast • Digital Creator**
+![Streak](https://streak-stats.demolab.com/?user=<username>&theme=tokyonight&hide_border=true)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+things+from+scratch;JavaScript+%26+Node.js+Developer;Discord+Bots+%7C+Web+Applications;Code.+Create.+Improve." alt="Typing SVG" />
+</div>
 
-<br/>
+## 🤝 Открыт к сотрудничеству
 
-`Developer` · `Creator` · `Problem Solver`
-
----
-
-### 𖤐 ABOUT ME
-
-I'm **NeverAngel**, a developer passionate about building modern applications, automation tools, and Discord bots.
-
-I enjoy turning ideas into real projects, exploring new technologies, and improving my skills with every line of code.
-
-**Currently focused on:**
-- Discord bot development
-- Backend systems and APIs
-- Web applications
-- Automation and security tools
+Всегда рад интересным проектам, open source и новым знакомствам. Пишите!
 
 ---
 
-### ⚡ TECH STACK
-
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,express,sqlite,git,github,vscode,windows&theme=dark" alt="Tech Stack" />
-
----
-
-### ✦ FEATURED PROJECTS
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**AORI**
-
-Discord Security & Moderation Bot
-
-`Node.js` `Discord.js` `Security`
-
-</td>
-<td align="center" width="50%">
-
-**AORI SYSTEM**
-
-Modern Web Application
-
-`Express` `SQLite` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**757 HELPER**
-
-Rust Clan Automation
-
-`Discord.js` `Rust+` `Node.js`
-
-</td>
-<td align="center" width="50%">
-
-**VOIDBIN**
-
-Text Publishing Platform
-
-`Express` `SQLite` `Web`
-
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GITHUB STATISTICS
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
-
----
-
-### 🔥 CONTRIBUTION STREAK
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
----
-
-### 🐍 CONTRIBUTION SNAKE
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
----
-
-### 🌐 CONNECT WITH ME
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" alt="Profile Views" />
-
-<br/>
-
-*“Create what doesn't exist.”*
-
-**© NeverAngel**
-
+<div align="center">
+  <sub>⭐ Если что-то понравилось, поставьте звезду!</sub>
 </div>
