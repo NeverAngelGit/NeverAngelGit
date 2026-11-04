@@ -22,22 +22,8 @@
 
 ## 👼 Обо мне
 
-```js
-const neverAngel = {
-  nickname: "never.angel",
-  role: "<Full-stack / Backend / Frontend / Student>",
-  location: "Kyiv, Ukraine 🇺🇦",
-  currentlyBuilding: "<название проекта>",
-  currentlyLearning: ["<технология 1>", "<технология 2>"],
-  funFact: "<что-то необычное о тебе>",
-  motto: "Never an angel, always a builder.",
-};
-```
-
-- 🔭 Сейчас работаю над **<проект>**
-- 🌱 Изучаю **<технология>**
-- 🤝 Ищу единомышленников для **<тема / open source>**
-- 💬 Спрашивай про **<тема>**
+- 🔭 Сейчас работаю над **Aori Labaratory**
+- 🌱 Изучаю **Node.js**
 
 ---
 
