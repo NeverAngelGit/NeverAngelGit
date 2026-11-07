@@ -51,13 +51,13 @@ A customizable command-line interface designed to transform the traditional term
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NeverAngelGit&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeverAngelGit&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 <br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=NeverAngelGit&theme=tokyonight&hide_border=true" />
 
 </div>
 
