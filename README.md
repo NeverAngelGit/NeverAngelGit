@@ -31,7 +31,7 @@
 <div align="center">
 
 <a href="https://github.com/USERNAME/super-cmd">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=super-cmd&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeverAngelGit&repo=super-cmd&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
