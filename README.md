@@ -1,111 +1,135 @@
+ 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09090B,50:171717,100:27272A&text=AORI%20LABORATORY&fontSize=48&fontColor=FFFFFF&fontAlignY=42&desc=Independent%20Software%20Development%20Laboratory&descSize=13&descAlignY=62&descColor=A1A1AA&animation=fadeIn" width="100%" />
+<!-- ANIME BANNER: положи свою картинку в assets/anime-banner.gif -->
 
-<br>
+<img src="./assets/anime-banner.gif" width="100%" />
 
-### `ENGINEERING • RESEARCH • DEVELOPMENT`
+# 🌸 Hello, World! I'm a Developer
 
-**An independent laboratory for software engineering and technological exploration.**
+### `Building things. Breaking limits. Creating the future.`
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Rust+Enthusiast+%F0%9F%A6%80;Terminal+Customizer;Anime+%26+Code+Lover+%E2%9C%A8" />
 
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-white?style=flat-square&labelColor=18181B&color=52525B" />
-<img src="https://img.shields.io/badge/PRIMARY%20LANGUAGE-RUST-black?style=flat-square&logo=rust&logoColor=white&labelColor=18181B&color=52525B" />
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-18181B?style=flat-square&labelColor=18181B&color=22C55E" />
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=ff69b4)](https://github.com/USERNAME)
 
 </div>
 
 ---
 
-## `01` — ABOUT THE LABORATORY
+## 🎴 About Me
 
-**Aori Laboratory** is an independent software development laboratory focused on engineering, experimentation and building technology.
+```rust
+struct Developer {
+    name: &'static str,
+    role: &'static str,
+    languages: Vec<&'static str>,
+    interests: Vec<&'static str>,
+}
 
-It represents an approach to development where curiosity meets engineering, ideas become implementations, and every line of code has a purpose.
+fn main() {
+    let me = Developer {
+        name: "USERNAME",
+        role: "Software Developer",
+        languages: vec!["Rust", "C++", "Python", "JavaScript"],
+        interests: vec![
+            "Open Source",
+            "Terminal Customization",
+            "Anime",
+            "System Programming",
+        ],
+    };
+}
+```
 
-The laboratory is driven by the desire to understand how things work, explore new technologies and create efficient software.
-
-> We don't just write code. We explore possibilities, engineer solutions and turn ideas into reality.
+- 🧠 Always learning something new.
+- ⚡ Building cool software and experimenting with ideas.
+- 🦀 Exploring the Rust ecosystem.
+- 🎮 Anime, technology and programming are my world.
+- 🚀 Turning ideas into reality.
 
 ---
 
-## `02` — TECHNOLOGY
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### PRIMARY DEVELOPMENT LANGUAGE
-
-<img src="https://skillicons.dev/icons?i=rust&theme=dark" width="65" />
-
-### RUST
-
-**Performance. Reliability. Control.**
-
-Rust is the primary programming language used at Aori Laboratory.
-
-My development focus revolves around:
-
-- High-performance software engineering.
-- System-level programming.
-- Memory safety and resource management.
-- Efficient algorithms and architecture.
-- Low-level concepts and optimization.
-- Exploring the capabilities of modern software.
+<img src="https://skillicons.dev/icons?i=rust,cpp,python,js,ts,html,css,git,github,vscode,linux&theme=dark" />
 
 </div>
 
 ---
 
-## `03` — PHILOSOPHY
+## 🚀 Featured Projects
 
 <div align="center">
 
-| PRINCIPLE | APPROACH |
-|:---|:---|
-| **Precision** | Every implementation should have a purpose. |
-| **Performance** | Efficiency matters at every level. |
-| **Curiosity** | Never stop exploring how technology works. |
-| **Engineering** | Understand the system, not just the code. |
-| **Evolution** | Improve, experiment and build better. |
+<a href="https://github.com/USERNAME/super-cmd">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=super-cmd&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 💻 Super-CMD
+
+A customizable command-line interface designed to transform the traditional terminal experience.
+
+- 🎨 Full terminal customization.
+- ⚡ Modern command-line experience.
+- 🔧 Flexible configuration.
+- 🦀 Built with performance in mind.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## `04` — THE MISSION
+## 🌸 Anime Corner
 
-Aori Laboratory exists to explore the boundaries of software development.
+<div align="center">
 
-The goal is simple:
+<!-- Добавь сюда GIF-файлы своих любимых аниме-персонажей -->
 
-**Learn deeply. Build intelligently. Engineer relentlessly.**
+<img src="./assets/anime-character-1.gif" width="200" />
+<img src="./assets/anime-character-2.gif" width="200" />
+<img src="./assets/anime-character-3.gif" width="200" />
 
-Technology is constantly evolving, and so is the laboratory.
+### 「 Code is my art. Technology is my canvas. 」
+
+*Keep dreaming. Keep coding. Never give up.*
+
+</div>
+
+---
+
+## 🎧 Currently Vibing To
+
+<div align="center">
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" />
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181B,100:09090B&height=2&section=footer" width="100%" />
+### 🌙 Thanks for visiting my profile!
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
-### AORI LABORATORY
-
-`INDEPENDENT DEVELOPMENT • POWERED BY RUST`
-
-<br>
-
-<sub>Designed to build. Engineered to evolve.</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/BUILT%20WITH-RUST-18181B?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/EST.-AORI%20LABORATORY-18181B?style=flat-square&labelColor=18181B&color=71717A" />
-
-<br>
-
-**© Aori Laboratory**
+**⭐ If you like my projects, consider giving them a star!**
 
 </div>
