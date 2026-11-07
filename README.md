@@ -36,17 +36,6 @@
 
 </div>
 
-### 💻 Super-CMD
-
-A customizable command-line interface designed to transform the traditional terminal experience.
-
-- 🎨 Full terminal customization.
-- ⚡ Modern command-line experience.
-- 🔧 Flexible configuration.
-- 🦀 Built with performance in mind.
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
