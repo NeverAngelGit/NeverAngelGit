@@ -1,8 +1,6 @@
  
 <div align="center">
 
-<!-- ANIME BANNER: положи свою картинку в assets/anime-banner.gif -->
-
 <img src="./assets/anime-banner.gif" width="100%" />
 
 # 🌸 Hello, World! I'm a Developer
@@ -15,39 +13,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=ff69b4)](https://github.com/USERNAME)
 
 </div>
-
----
-
-## 🎴 About Me
-
-```rust
-struct Developer {
-    name: &'static str,
-    role: &'static str,
-    languages: Vec<&'static str>,
-    interests: Vec<&'static str>,
-}
-
-fn main() {
-    let me = Developer {
-        name: "USERNAME",
-        role: "Software Developer",
-        languages: vec!["Rust", "C++", "Python", "JavaScript"],
-        interests: vec![
-            "Open Source",
-            "Terminal Customization",
-            "Anime",
-            "System Programming",
-        ],
-    };
-}
-```
-
-- 🧠 Always learning something new.
-- ⚡ Building cool software and experimenting with ideas.
-- 🦀 Exploring the Rust ecosystem.
-- 🎮 Anime, technology and programming are my world.
-- 🚀 Turning ideas into reality.
 
 ---
 
@@ -86,39 +51,13 @@ A customizable command-line interface designed to transform the traditional term
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
-<img width="90%" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
+<br/>
 
-</div>
-
----
-
-## 🌸 Anime Corner
-
-<div align="center">
-
-<!-- Добавь сюда GIF-файлы своих любимых аниме-персонажей -->
-
-<img src="./assets/anime-character-1.gif" width="200" />
-<img src="./assets/anime-character-2.gif" width="200" />
-<img src="./assets/anime-character-3.gif" width="200" />
-
-### 「 Code is my art. Technology is my canvas. 」
-
-*Keep dreaming. Keep coding. Never give up.*
-
-</div>
-
----
-
-## 🎧 Currently Vibing To
-
-<div align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
